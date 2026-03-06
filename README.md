@@ -1,4 +1,4 @@
-# SSH Hardening CybersecurityLab
+#TheLab
 I have run the virtual machine Oracle Virual Box and I have configured my network home lab. Throughout this experience I have learnt to harden a netowrk and block doors to intruders.
 
 What I did in this lab:
